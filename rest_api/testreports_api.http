@@ -1,0 +1,3 @@
+GET {{baseUrl}}/api/item/page?pagenumber=2&pagesize=10
+
+# Authorization: Basic {{authorization}}
